@@ -29,3 +29,8 @@ The analysis provided valuable insights into sales patterns and drivers. Holiday
 ### Tools and Libraries:
 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Kaggle environment for dataset exploration and modeling
+
+## Author
+[Samarth Sharma](https://github.com/samartho4)
+
+
